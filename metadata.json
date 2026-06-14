@@ -1,0 +1,6 @@
+{
+  "name": "ShopSoftly",
+  "description": "A premium, soft-minimalist e-commerce application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
